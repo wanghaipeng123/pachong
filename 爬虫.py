@@ -1,7 +1,7 @@
 import urllib.request
 import urllib.parse
 import json
-content=input('请输入需要翻译的内容：')
+content=input('你好，请输入需要翻译的内容：')
 
 url='http://fanyi.youdao.com/translate?smartresult=dict&smartresult=rule'
 
